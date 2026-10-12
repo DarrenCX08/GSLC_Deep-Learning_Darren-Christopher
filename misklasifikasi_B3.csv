@@ -1,0 +1,9 @@
+file,ground_truth,prediksi,confidence
+data/oxford-iiit-pet/images/Bengal_180.jpg,Bengal,British Shorthair,0.4603368937969208
+data/oxford-iiit-pet/images/Siamese_9.jpg,Siamese,Abyssinian,0.6548080444335938
+data/oxford-iiit-pet/images/beagle_198.jpg,Beagle,Boxer,0.7932763695716858
+data/oxford-iiit-pet/images/British_Shorthair_34.jpg,British Shorthair,Bombay,0.8631260991096497
+data/oxford-iiit-pet/images/Abyssinian_191.jpg,Abyssinian,Bengal,0.9213839173316956
+data/oxford-iiit-pet/images/Abyssinian_8.jpg,Abyssinian,British Shorthair,0.6323241591453552
+data/oxford-iiit-pet/images/boxer_173.jpg,Boxer,Beagle,0.5791573524475098
+data/oxford-iiit-pet/images/Abyssinian_101.jpg,Abyssinian,Bengal,0.9550803303718567
